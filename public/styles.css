@@ -1,0 +1,48 @@
+
+.button-like-text { 
+    background-color: transparent; 
+    border: none; 
+    color: inherit; 
+    text-decoration: underline; 
+    cursor: pointer; 
+    padding-right: 30px; 
+    font: inherit; 
+} 
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: white;
+  }
+
+.form-group {
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+}
+
+.form-control {
+    height: 85vh;
+
+}
+
+.list-group {
+    width: 90%;
+    margin: auto;
+    padding-bottom:100px;
+}
+
+.list-content {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.edit-button {
+    margin-left: 122px;
+}
+.delete-button {
+    margin-left: 5px;
+}
+
